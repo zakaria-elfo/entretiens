@@ -9,7 +9,8 @@ source .bashrc
 anaconda-navigator
 
 # step 1:
-Launch jupyter notebook  , upload the jupyter  file called here (deep move entretien 2.ipynb)
+download test and train images and their labels from the link http://yann.lecun.com/exdb/mnist/ and extract them
+Launch jupyter notebook  , upload the jupyter  file called here (deep move entretien 2.ipynb) , and uploas train and test images and labels 
 # step 2:
 download all the package (numpy, idx2numpy , matplotlib , tensorflow ,sklern ) using pip3 install + $name of the package
 # step 3:
